@@ -8,4 +8,4 @@ Beware that because this project is an exploration, some of the information post
 
 ## Topics
 
-[Exploration of Installation from ROM](disk_layout/ElfOS_rrom_ROM/README.md)
+[Exploration of Installation from ROM](disk_layout/ElfOS_from_ROM/README.md)
