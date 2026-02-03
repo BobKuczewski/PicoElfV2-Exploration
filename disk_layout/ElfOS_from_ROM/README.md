@@ -52,7 +52,10 @@ Each of these XPM files was then converted to PNG format for this page.
 Each image below shows black for areas that have not been changed during
 that step and yellow for areas that were changed during that step. The
 total of all changes (from a blank disk to the final system) was
-also used to generate the final cumulative image. These images are shown below.
+also used to generate the final cumulative image. For easier comparison,
+all of the images were expanded to 240 rows of 512 bytes per row for a
+total of 122880 bytes even though there were no bytes changed above
+111577. These images are shown below (open separately and zoom as needed).
 
 ## Results
 
